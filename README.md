@@ -1,1 +1,3 @@
-# tomtom-sdk-spm-core
+# tomtom-sdk-spm-core-dev
+
+A description of this package.
