@@ -17,6 +17,6 @@ The TomTomSDKCore package provides iOS modules that help developers display and 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/tomtom-internal/tomtom-sdk-spm-core", .exact("<SDK_VERSION>"))
+    .package(url: "https://github.com/tomtom-internal/tomtom-sdk-spm-cored", .exact("<SDK_VERSION>"))
 ]
 ```
