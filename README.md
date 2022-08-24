@@ -20,3 +20,10 @@ dependencies: [
     .package(url: "https://github.com/tomtom-internal/tomtom-sdk-spm-cored", .exact("<SDK_VERSION>"))
 ]
 ```
+
+> Please use exact versioning as the semantic versioning is not fully supported yet. 
+
+## Usage
+
+For more information, please refer to the [TomTom maps SDK documentation](https://developer.tomtom.com/ios/maps/documentation/overview/introduction).
+
